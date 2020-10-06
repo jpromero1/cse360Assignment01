@@ -10,7 +10,7 @@ public class AddingMachine {
 	  private int total;
 	  private String operations;
 	  /**
-	   * This is a constructor for the AddingMachine
+	   * This is a constructor for the AddingMachine that instantiates the instance variables
 	   */
 	  public AddingMachine () {
 	    total = 0;  // not needed - included for clarity
